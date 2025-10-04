@@ -4,7 +4,7 @@
 <h1>Repositório público de html-css.</h1>
 
 <p>Este material é para ser consumido apenas com o uso de aprendizado não como cópia.</p>
-<br>
+
 <h2>Curso de HTML5 e CSS3.</h2>
 <ul>
     <li><p><a href="https://github.com/kauarubens09/html-css/tree/main/exercicios">Códigos dos exercicios</a></p></li>
